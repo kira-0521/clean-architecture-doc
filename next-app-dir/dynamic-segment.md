@@ -16,7 +16,7 @@ blog
 
 ### Not Found
 
-1. ダイナミックセグメントのディレクトリにnot-found.tsxを作成
-2. next/navigationからnotFoundを使用
-3. 1で定義したnot-found.tsxにコンポーネントが表示される
+1. ダイナミックセグメントのディレクトリに`not-found.tsx`を作成
+2. `next/navigation`から`notFound`を使用
+3. 1で定義した`not-found.tsx`にコンポーネントが表示される
 
